@@ -1,5 +1,7 @@
 {
-  "name": "fh-app",
+  "author": "John Frizelle <john.frizelle@feedhenry.com>",
+  "name": "db-connections",
+  "description": "FeedHenry Database Connectivity examples",
   "version": "0.1.0",
   "dependencies" : {
     "fh-nodeapp" : "*",

@@ -1,10 +1,3 @@
-/**
- * Created with JetBrains WebStorm.
- * User: kelly
- * Date: 27/11/2012
- * Time: 11:55
- * To change this template use File | Settings | File Templates.
- */
 var oracle = require('db-oracle');
 var test = require('tap').test;
 var db = new oracle.Database({
