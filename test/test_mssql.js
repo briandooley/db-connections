@@ -11,12 +11,12 @@ var Request = require('tedious').Request;
 
 
 var config = {
-  "userName":"nrmssql",
-  "password":"aw3se4dr5",
-  "server":"nrmssql.c45ztkc43hj8.us-east-1.rds.amazonaws.com",
+  "userName":"<USERNAME-HERE>",
+  "password":"<PASSWORD-HERE>",
+  "server":"<HOSTNAME-HERE>",
   "options":{
      "port":1433,
-     "database":"testing"
+     "database":"<HOSTNAME-HERE>"
   }
 };
 
