@@ -8,10 +8,10 @@
 var oracle = require('db-oracle');
 var test = require('tap').test;
 var db = new oracle.Database({
-  "hostname":"nroracle.c45ztkc43hj8.us-east-1.rds.amazonaws.com",
-  "database":"NRORACLE",
-  "user":"nroracle",
-  "password":"aw3se4dr5",
+  "hostname":"<HOSTNAME-HERE>",
+  "database":"<DATABASE-HERE>",
+  "user":"<USERNAME-HERE>",
+  "password":"<PASSWORD-HERE>",
   "port":1521
 });
 
